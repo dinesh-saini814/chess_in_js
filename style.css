@@ -1,0 +1,17 @@
+#body {
+  margin: 0;
+  padding: 0;
+}
+
+.chess_space {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.board {
+  width: 600px;
+  height: 600px;
+  background-color: rgb(247, 218, 171);
+  display: grid;
+}
